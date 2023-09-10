@@ -1,0 +1,2 @@
+# Intelek
+Sekedar Teori Intelektualitas
