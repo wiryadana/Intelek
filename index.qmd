@@ -9,7 +9,7 @@ editor: visual
 
 jika ditanya Intelek, ingatlah si budi, "Budi on steroid"
 
-Intelek (KBBI 2015) daya atau proses pemikiran yang lebih tinggi berkenaan dengan sebuah pengetahuan atau daya akal budi.
+**Intelek (KBBI 2015) daya atau proses pemikiran yang lebih tinggi berkenaan dengan sebuah pengetahuan atau daya akal budi atau kecerdasan berpikir.**
 
 Intelligere (latin: memahami
 Inter = antara
@@ -18,7 +18,9 @@ legere = mengumpulkan, mencerap, membaca
 
 Chaplin (1981)
 Intelect (english) = 
+
 1. Proses Koginif atau berpikir
+
 2. Kemampuan mental atau intelegensi
 
 Mahfudin Shalahudin
@@ -108,11 +110,32 @@ C. daya akal budi
 D. kecerdasan Berpikir
 E. Ilmu
 
+Sesui deksripsi KBBI, yang disebutkan adalah pengetahuan, daya akal budi dan kecerdasan berpikir. Ilmu dan Etika tidak disebutkan.
+
 ##### 32
 Pencatatan teknologi dalam tindakan kedokteran agar mendapatkan perlindungan dan payung hukum atas hak seseorang inventor adalah:
 
 a. Paten Industri
 b. Hak Cipta
 **c. Paten sederhana**
-d. Intevention
+d. Invention
 e. royalti.
+
+
+Paten Sederhana: Setiap invensi berupa produk atau alat yang baru dan mempunyai nilai kegunaan praktis disebabkan karena bentuk, konfigurasi, konstruksi atau komponennya dapat memperoleh perlindungan hukum dalam bentuk paten sederhana.
+
+**Perbedaan Paten dan Paten Sederhana**
+
+- Paten diberikan untuk invensi yang baru, mengandung langkah inventif, dan dapat diterapkan dalam industri. 
+
+- Paten sederhana diberikan untuk setiap invensi baru, pengembangan dari produk atau proses yang telah ada, dan dapat diterapkan dalam industri. Paten sederhana diberikan untuk invensi yang berupa produk yang bukan sekadar berbeda ciri teknisnya, tetapi harus memiliki fungsi/kegunaan yang lebih praktis daripada invensi sebelumnya yang disebabkan bentuk, konfigurasi, konstruksi, atau komponennya yang mencakup alat, barang, mesin, komposisi, formula, senyawa, atau sistem. Paten sederhana juga diberikan untuk invensi yang berupa proses atau metode yang baru.
+
+- Klaim paten sederhana dibatasi dengan satu klaim mandiri, sedangkan paten jumlah klaimnya tidak dibatasi.
+
+- Progres teknologi dalam paten sederhana lebih simpel daripada progres teknologi dalam paten.
+
+Hak Cipta: hak eksklusif pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu ciptaan diwujudkan dalam bentuk nyata tanpa mengurangi pembatasan sesuai dengan ketentuan peraturan perundang-undangan.
+
+Invention: ide inventor yang dituangkan ke dalam suatu kegiatan pemecahan masalah yang spesifik di bidang teknologi, dapat berupa produk atau proses atau penyempurnaan dan pengembangan produk atau proses.
+
+Royalti: uang jasa yang dibayarkan orang lain atas sesuatu yang diproduksi suatu pihak yang memiliki hak paten atasnya. Singkatnya, royalti adalah sejumlah uang yang akan diterima seseorang atas karya intelektual miliknya.
